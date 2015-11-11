@@ -1,0 +1,63 @@
+.bottom {
+  border-radius: 100%;
+  width: 250px;
+  height: 250px;
+  border: 2px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:1px;
+  margin-bottom:50px;
+}
+.middle {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  border: 2px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:1px;
+}
+.top {
+  border-radius: 100%;
+  width: 160px;
+  height: 160px;
+  border: 2px solid black;
+  margin-left:auto;
+  margin-right:auto;
+}
+.eyes {
+  border-radius: 100%;
+  width: 20px;
+  height: 20px;
+  border: 2px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:black;
+  float:left;
+}
+.buttons {
+  border-radius: 100%;
+  width: 25px;
+  height: 25px;
+  border: 2px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:black;
+  float:left;
+}
+.smile {
+  border-radius: 100%;
+  width: 10px;
+  height: 10px;
+  border: 2px solid black;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:black;
+  float:left;
+}
+.snowMan {
+  height:auto;
+  width: auto;
+  margin-left:auto;
+  margin-right:auto;
+}
